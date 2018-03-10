@@ -1,6 +1,6 @@
 # My Blogs
 
-- [Python_元素出现个数](https://github.com/KARL13YAN/my-blogs/blob/master/blogs/Python_%E5%85%83%E7%B4%A0%E5%87%BA%E7%8E%B0%E4%B8%AA%E6%95%B0)
+- [Python_元素出现个数](https://github.com/KARL13YAN/my-blogs/blob/master/blogs/Python_%E5%85%83%E7%B4%A0%E5%87%BA%E7%8E%B0%E4%B8%AA%E6%95%B0.md)
 - [Python机器学习1](https://github.com/KARL13YAN/my-blogs/blob/master/blogs/Python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A01)
 - [Python机器学习2](https://github.com/KARL13YAN/my-blogs/blob/master/blogs/Python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A02)
 - [Python机器学习3](https://github.com/KARL13YAN/my-blogs/blob/master/blogs/Python%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A03)
